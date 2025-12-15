@@ -2,3 +2,5 @@
 ## Chinese
 ### Delivery / CLD
 <script type='text/javascript' src='https://ks.wjx.com/handler/jqemed.ashx?activity=rZKACnC&width=760&source=iframe'></script>
+### Ground / GND
+<script type='text/javascript' src='https://ks.wjx.com/handler/jqemed.ashx?activity=mR3R2SX&width=760&source=iframe'></script>
